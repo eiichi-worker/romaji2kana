@@ -1,6 +1,6 @@
 # kana2romaji
 
-ローマ字表記からひらがなへのコンバートをJavaScriptのみで行なう。
+ローマ字表記からひらがなへのコンバートをJavaScriptのみで行なう（雑）。
 Google Apps Scriptでも動作可能なのでGoogle Driveのスプレッドシートでひらかなのデータをローマ字表記に変換する時とかにも使えます。
 
 ## Usage
@@ -25,7 +25,7 @@ string : ローマ字表記の文字列。それ以外の文字列を指定し�
 #### 利用例
 
 ```
-=romaji2kana(LOWER(H971))
+=romaji2kana(A1)
 ```
 
 ## 謝辞
