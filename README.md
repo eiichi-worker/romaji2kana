@@ -38,5 +38,5 @@ Dual licensed under the MIT or GPL Version 3 licenses
 
 ## Author
 
-Copyright（c）2021 eiichi-worker <8284623+eiichi-worker@users.noreply.github.com>
-Copyright（c）2013 Yonashiro Yuu <cloneko@gmail.com>
+- Copyright（c）2021 eiichi-worker <8284623+eiichi-worker@users.noreply.github.com>
+- Copyright（c）2013 Yonashiro Yuu <cloneko@gmail.com>
